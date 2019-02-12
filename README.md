@@ -3,7 +3,7 @@
 Entry level software engineer with basic knowledge of C#. I have an analytical mind, a desire to work and learn new skills, good communication and personal skills, strong skills to work in tense graphics, and solve multitasking problems.
 
 ## EDUCATION
-School of Business and Management of Technology of BSU (DIPLOMA) 2014
+School of Business and Management of Technology of BSU (DIPLOMA) 2014</br>
 Manager-economist
 
 ## TECHNICAL SKILLS
@@ -11,7 +11,7 @@ Manager-economist
 * HTML & CSS;
 * Transact-SQL;
 
-## Link to tasks
+## LINK TO TASKS
 
 
 
