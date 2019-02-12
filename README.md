@@ -7,9 +7,9 @@ School of Business and Management of Technology of BSU (DIPLOMA) 2014
 Manager-economist
 
 ## TECHNICAL SKILLS
-C#;
-HTML & CSS;
-Transact-SQL;
+* C#;
+* HTML & CSS;
+* Transact-SQL;
 
 ## Link to tasks
 
