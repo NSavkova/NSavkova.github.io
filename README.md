@@ -11,7 +11,10 @@ Manager-economist
 * HTML & CSS;
 * Transact-SQL;
 
-## LINK TO TASKS
+## LINK TO TASKS    
+### Padawans    
+PadawansTask3 https://github.com/NSavkova/PadawansTask3    
+PadawansTask4 https://github.com/NSavkova/PadawansTask4
 
 
 
