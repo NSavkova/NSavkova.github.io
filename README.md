@@ -13,8 +13,8 @@ Manager-economist
 
 ## LINK TO TASKS    
 ### Padawans    
-PadawansTask3 https://github.com/NSavkova/PadawansTask3    
-PadawansTask4 https://github.com/NSavkova/PadawansTask4
+PadawansTask3 [https://github.com/NSavkova/PadawansTask3](https://github.com/NSavkova/PadawansTask3)   
+PadawansTask4 [https://github.com/NSavkova/PadawansTask4](https://github.com/NSavkova/PadawansTask4)
 
 
 
