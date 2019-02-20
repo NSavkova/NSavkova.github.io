@@ -13,10 +13,11 @@ Manager-economist
 
 ## LINK TO TASKS    
 ### Padawans     
-PadawansTask2 [https://github.com/NSavkova/PadawansTask2](https://github.com/NSavkova/PadawansTask2)    
-PadawansTask3 [https://github.com/NSavkova/PadawansTask3](https://github.com/NSavkova/PadawansTask3)   
-PadawansTask4 [https://github.com/NSavkova/PadawansTask4](https://github.com/NSavkova/PadawansTask4)     
-PadawansTask5 [https://github.com/NSavkova/PadawansTask5](https://github.com/NSavkova/PadawansTask5)    
+PadawansTask2  [https://github.com/NSavkova/PadawansTask2](https://github.com/NSavkova/PadawansTask2)    
+PadawansTask3  [https://github.com/NSavkova/PadawansTask3](https://github.com/NSavkova/PadawansTask3)   
+PadawansTask4  [https://github.com/NSavkova/PadawansTask4](https://github.com/NSavkova/PadawansTask4)     
+PadawansTask5  [https://github.com/NSavkova/PadawansTask5](https://github.com/NSavkova/PadawansTask5)    
+PadawansTask10 [https://github.com/NSavkova/PadawansTask10](https://github.com/NSavkova/PadawansTask10)
 
 
 
