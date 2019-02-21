@@ -12,7 +12,8 @@ Manager-economist
 * Transact-SQL;
 
 ## LINK TO TASKS    
-### Padawans     
+### Padawans  
+PadawansTask1  [https://github.com/NSavkova/PadawansTask1](https://github.com/NSavkova/PadawansTask1)     
 PadawansTask2  [https://github.com/NSavkova/PadawansTask2](https://github.com/NSavkova/PadawansTask2)    
 PadawansTask3  [https://github.com/NSavkova/PadawansTask3](https://github.com/NSavkova/PadawansTask3)   
 PadawansTask4  [https://github.com/NSavkova/PadawansTask4](https://github.com/NSavkova/PadawansTask4)     
