@@ -18,6 +18,7 @@ PadawansTask2  [https://github.com/NSavkova/PadawansTask2](https://github.com/NS
 PadawansTask3  [https://github.com/NSavkova/PadawansTask3](https://github.com/NSavkova/PadawansTask3)   
 PadawansTask4  [https://github.com/NSavkova/PadawansTask4](https://github.com/NSavkova/PadawansTask4)     
 PadawansTask5  [https://github.com/NSavkova/PadawansTask5](https://github.com/NSavkova/PadawansTask5)    
+PadawansTask6  [https://github.com/NSavkova/PadawansTask6](https://github.com/NSavkova/PadawansTask6)    
 PadawansTask10 [https://github.com/NSavkova/PadawansTask10](https://github.com/NSavkova/PadawansTask10)
 
 
