@@ -11,7 +11,10 @@ Manager-economist
 * HTML & CSS;
 * Transact-SQL;
 
-## LINK TO TASKS    
+## LINK TO TASKS
+### Codewars    
+[https://www.codewars.com/users/NSavkova](https://www.codewars.com/users/NSavkova)    
+
 ### Padawans  
 PadawansTask1  [https://github.com/NSavkova/PadawansTask1](https://github.com/NSavkova/PadawansTask1)     
 PadawansTask2  [https://github.com/NSavkova/PadawansTask2](https://github.com/NSavkova/PadawansTask2)    
