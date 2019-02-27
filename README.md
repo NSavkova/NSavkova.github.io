@@ -22,8 +22,9 @@ PadawansTask3  [https://github.com/NSavkova/PadawansTask3](https://github.com/NS
 PadawansTask4  [https://github.com/NSavkova/PadawansTask4](https://github.com/NSavkova/PadawansTask4)     
 PadawansTask5  [https://github.com/NSavkova/PadawansTask5](https://github.com/NSavkova/PadawansTask5)    
 PadawansTask6  [https://github.com/NSavkova/PadawansTask6](https://github.com/NSavkova/PadawansTask6)    
-PadawansTask7 [https://github.com/NSavkova/PadawansTask7](https://github.com/NSavkova/PadawansTask7)    
+PadawansTask7  [https://github.com/NSavkova/PadawansTask7](https://github.com/NSavkova/PadawansTask7)    
 PadawansTask10 [https://github.com/NSavkova/PadawansTask10](https://github.com/NSavkova/PadawansTask10)    
+PadawansTask11 [https://github.com/NSavkova/PadawansTask11](https://github.com/NSavkova/PadawansTask11)    
 PadawansTask12 [https://github.com/NSavkova/PadawansTask12](https://github.com/NSavkova/PadawansTask12)    
 PadawansTask13 [https://github.com/NSavkova/PadawansTask13](https://github.com/NSavkova/PadawansTask13)    
 
